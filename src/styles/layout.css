@@ -1,0 +1,10 @@
+.duel-group {
+  width: 50%;
+  height: 100vh;
+}
+
+.duel-stream,
+.duel-chat {
+  width: 100%;
+  height: 50%;
+}
